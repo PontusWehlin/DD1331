@@ -1,0 +1,4 @@
+Butiken öppnar: 0900
+Butiken stänger: 1800
+Antal minuter per kund: 2
+Sanolikheten att en ny kund kommer(i procent): 20
